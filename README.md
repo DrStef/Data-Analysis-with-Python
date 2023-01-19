@@ -16,8 +16,14 @@ Dataset: automotive, various makes and specifications.
 #### [Exploratory Data Analysis - Jupyter Notebook](https://github.com/DrStef/Data-Analysis-with-Python/blob/main/DA0101EN-3-Review-Exploratory-Data-Analysis-v01.ipynb)
 
 
+#### [Model Development - Jupyter Notebook](https://github.com/DrStef/Data-Analysis-with-Python/blob/main/DA0101EN-4-Review-Model-Development_v04.ipynb)
 
+#### [Model Evaluation and Refinement - Jupyter Notebook](https://github.com/DrStef/Data-Analysis-with-Python/blob/main/DA0101EN-5-Review-Model-Evaluation-and-Refinement_v02.ipynb)
 
+Model-Evaluation-and-Refinement
+
+<br>
+<br>
 
 ##  Dataset
 
