@@ -7,7 +7,7 @@ This project was part of IBM Data Science certificate. https://www.coursera.org/
 ##  Dataset and Objective.
 
 Dataset: cars, various makes, specifications and prices.   <br> 
-After cleaning the dataset, and running statistics, identifying the most relevant variables, we develop several models that will predict the price of a car using a set of features/variables. <br> A model will help us understand the exact relationship between different variables and how these variables are used to predict the result. 
+After cleaning the dataset, running statistics, identifying the most relevant variables, we develop several models that will predict the price of a car using a set of features/variables. <br> A model will help us understand the exact relationship between different variables and how these variables are used to predict the result. 
 
 
 ##  Data Analysis Steps
